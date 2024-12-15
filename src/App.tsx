@@ -28,6 +28,7 @@ function App() {
         <p>
           This is another check after disabeling the cache from the cloud front
         </p>
+        <p>Cloud front cache invalidation step added and this is the check</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
