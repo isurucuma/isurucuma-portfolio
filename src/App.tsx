@@ -25,6 +25,9 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
         <p>Hi this is to check the CICD pipeline</p>
+        <p>
+          This is another check after disabeling the cache from the cloud front
+        </p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
