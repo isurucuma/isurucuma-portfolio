@@ -355,7 +355,7 @@ export default function Home() {
         <h2 className="text-2xl font-semibold mb-4">Certifications</h2>
         {certifications.map((cert, index) => (
           <div key={index} className="mb-4">
-            <h3 className="text-xl font-semibold">{cert.title}</h3>
+            <h3 className="font-semibold">{cert.title}</h3>
             <p className="text-muted-foreground">
               {cert.authority} - {cert.date}
             </p>
